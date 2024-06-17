@@ -1,1 +1,1 @@
-### RailsとReactのUber_Eatsのクローン
+## RailsとReactでSPA開発するのUber_Eatsのクローン
